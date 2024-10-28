@@ -81,7 +81,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.4.0)
       psych (>= 4.0.0)
-    rexml (3.2.5)
+    rexml (3.3.9)
     rouge (3.29.0)
     rss (0.2.9)
       rexml
